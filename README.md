@@ -16,3 +16,8 @@ DCTO
 
 ### Smart Contract Address
 0x9ccbd05d4d25c745d49f5e6bf17e09113eb4c769
+
+### Community
+[Telegram](https://t.me/dctoproject)
+
+[Twitter](https://twitter.com/dcto_project)
